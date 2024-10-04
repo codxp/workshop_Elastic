@@ -25,10 +25,10 @@ Instructions pour installer et configurer le projet :
 # Cloner le dépôt
 git clone https://github.com/votre-utilisateur/votre-projet.git
 
-# Naviguer dans le répertoire du projet
-cd votre-projet
+...
 
-# Installer les dépendances
-npm install
+...
+
+...
 
 ```
